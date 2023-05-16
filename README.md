@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ```
   _    _      _ _         _   _                     _ 
  | |  | |    | | |       | | | |                   | |
@@ -18,8 +16,7 @@
  - 👯 I'm looking to collaborate on full stack web apps!
  - 🤔 I'm looking for help with JS
  - 💬 Ask me about PHP, Java art, donuts and robots
- - 📫 How to reach me: 
-      - Teams
+ - 📫 How to reach me: Teams
  - 😄 Pronouns: he/him
  - ⚡ Fun fact: [object Object]
 ```
