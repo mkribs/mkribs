@@ -15,7 +15,7 @@
  - 🌱 I'm currently learning JS, C and other cool stuff!
  - 👯 I'm looking to collaborate on full stack web apps!
  - 🤔 I'm looking for help with JS
- - 💬 Ask me about PHP, Java art, donuts and robots
+ - 💬 Ask me about PHP, Games and donuts
  - 📫 How to reach me: Teams
  - 😄 Pronouns: he/him
  - ⚡ Fun fact: [object Object]
